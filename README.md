@@ -31,10 +31,10 @@ A four-minute narrated walkthrough, recorded on the live prototype: a new resear
 signing up, the three ways of working described below, and federated training across the
 three hospital sites.
 
-<p align="center"><a href="https://github.com/AlirezaAbedinii/pacs-aios/releases/tag/demo-2026-09"><img src="docs/assets/walkthrough-poster.jpg" width="800" alt="Play the PACS AIOS platform walkthrough, 4:02"></a></p>
+https://github.com/user-attachments/assets/c2df3109-b703-4f08-9ab3-5430213978d1
 
 <p align="center">
-  <a href="https://github.com/AlirezaAbedinii/pacs-aios/releases/download/demo-2026-09/pacs-aios-demo-captioned.mp4">Download the walkthrough</a> (MP4, 4:02, captioned)
+  <a href="https://github.com/AlirezaAbedinii/pacs-aios/releases/download/demo-2026-09/pacs-aios-demo-captioned.mp4">Download in 1080p</a> (MP4, 4:02, captioned)
   · <a href="docs/demo-transcript.md">Chapters and transcript</a>
 </p>
 
