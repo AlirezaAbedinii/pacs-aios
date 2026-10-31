@@ -27,7 +27,18 @@ federated learning.
 
 ## The demo
 
-Everything below was recorded on the live prototype.
+A four-minute narrated walkthrough, recorded on the live prototype: a new researcher
+signing up, the three ways of working described below, and federated training across the
+three hospital sites.
+
+<p align="center"><a href="https://github.com/AlirezaAbedinii/pacs-aios/releases/tag/demo-2026-09"><img src="docs/assets/walkthrough-poster.jpg" width="800" alt="Play the PACS AIOS platform walkthrough, 4:02"></a></p>
+
+<p align="center">
+  <a href="https://github.com/AlirezaAbedinii/pacs-aios/releases/download/demo-2026-09/pacs-aios-demo-captioned.mp4">Download the walkthrough</a> (MP4, 4:02, captioned)
+  · <a href="docs/demo-transcript.md">Chapters and transcript</a>
+</p>
+
+The stills below come from the same recording.
 
 ### No code: a private language model on the lab's GPU
 
